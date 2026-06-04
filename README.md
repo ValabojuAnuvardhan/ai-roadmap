@@ -2,7 +2,7 @@
 
 An interactive 6-month roadmap tracker for becoming an AI Engineer.
 
-**Live site:** `https://<your-username>.github.io/ai-roadmap/`
+**Live site:** https://valabojuanuvardhan.github.io/ai-roadmap/
 
 ## Features
 - ✅ Check off tasks as you complete them
